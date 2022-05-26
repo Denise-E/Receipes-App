@@ -63,20 +63,6 @@ button:focus {
   padding: 1.8rem 0 0.2rem 0;
 }
 
-.recipes__subtitle {
-  text-transform: uppercase;
-  font-weight: 600;
-  font-size: 0.8rem;
-  letter-spacing: 2px;
-}
-
-.recipes__subtitle span {
-  text-transform: none;
-  font-weight: 400;
-  font-size: 0.8rem;
-  letter-spacing: 1px;
-}
-
 .form__input {
   background: transparent;
   border: 0;
